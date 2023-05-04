@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "egghead7",
+    "database": "ecommerce_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "egghead7",
+    "database": "ecommerce_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "egghead7",
+    "database": "ecommerce_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
